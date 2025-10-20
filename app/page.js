@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      MotoGear AI
+      AI-MotoGear 
       <br />
       <Button>Get Started</Button>
     </div>
